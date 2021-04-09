@@ -1,1 +1,11 @@
 cz\vsb\austra\App.class
+cz\vsb\austra\City.class
+cz\vsb\austra\dto\Request.class
+cz\vsb\austra\dto\WeatherstackDto.class
+cz\vsb\austra\dto\Location.class
+cz\vsb\austra\connector\WeatherstackConnector.class
+cz\vsb\austra\dto\WeatherDto.class
+cz\vsb\austra\controller\GreetingController.class
+cz\vsb\austra\dto\Current.class
+cz\vsb\austra\service\WeatherService.class
+cz\vsb\austra\controller\WeatherController.class

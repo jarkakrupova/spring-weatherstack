@@ -1,1 +1,11 @@
-C:\Users\jarkr\eclipse-workspace\Spring-WeatherStack0920\src\main\java\cz\vsb\austra\App.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\App.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\dto\Request.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\dto\WeatherDto.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\controller\GreetingController.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\service\WeatherService.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\connector\WeatherstackConnector.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\controller\WeatherController.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\dto\Current.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\dto\WeatherstackDto.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\City.java
+C:\Users\Jarka\eclipse-workspace\spring-weatherstack\src\main\java\cz\vsb\austra\dto\Location.java

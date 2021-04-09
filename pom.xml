@@ -89,7 +89,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
-            <mainClass>com.places.Main</mainClass>
+            <mainClass>cz.vsb.austra.App</mainClass>
         </configuration>
 
         <executions>
